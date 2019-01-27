@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{75CC97A5-42E6-8167-26F3-05E860CEF04D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlaceTile.cs">
     <Files>
-      <File FileName="Assets/MoveControl.cs" Line="16" Column="9" />
+      <File FileName="Assets/MoveControl.cs" Line="17" Column="31" />
+      <File FileName="Assets/PlaceTile.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
