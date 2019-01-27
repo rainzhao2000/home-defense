@@ -29,6 +29,11 @@ public class GameManager : MonoBehaviour
         {
             placeable = 2;
         }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+
+        }
     }
 
     public int determineTileType(Tilemap map)
